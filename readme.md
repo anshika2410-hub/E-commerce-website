@@ -76,4 +76,4 @@ Functionalities Provided of Styleup Online Fashion Website-
 
 ## 🙏 Support
 This project needs a ⭐️ from you. Don't forget to leave a star ⭐️
-Email - srideeppersonal@gmail.com
+Email - anshikaagrawal2410@gmail.com
